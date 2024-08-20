@@ -1,0 +1,11 @@
+/* usando css externo */
+h1{
+    color: blueviolet;
+    
+}
+h2{
+    color: burlywood;
+    font-size: 200px;
+}
+
+    p{color: aqua;}
