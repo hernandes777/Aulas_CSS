@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(168, 16, 233);
+    font-family: fantasy;
+}
+@media screen and (min-width:1024px) {
+  h1 {font-size: 48px; color: gold;} 
+  p {font-size: 24px;}
+}
+
+@media (min-width:768px) and (max-width:1023px){
+    h1 {font-size: 24px;}
+    p {font-size: 20px;}
+    body{background-color: rgb(213, 58, 146);}
+}
