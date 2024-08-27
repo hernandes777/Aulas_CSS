@@ -1,0 +1,6 @@
+.posicao-statica{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border-bottom: 3px dashed red;
+}

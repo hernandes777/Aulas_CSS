@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+
+.boxmodel{
+    
+    width: 200px;
+    height: 200px;
+    background-color:rgb(107, 38, 13);
+    /* Espaçamento depois do conteudo */
+    padding: 30px 30px;
+    /* linha que fica apos o padding */
+    border: 10px solid rgb(255, 69, 1);
+    border-left: 15px dotted blue;
+    border-right-style: double;
+    border-radius: 100px;
+    /* adicionando espaço */
+    margin: 50px 50px;
+}
+
+.boxmode2{
+
+   width: 200px;
+   height: 200px;
+   background-color: rgb(107, 38, 13);
+   /* Espaçamento depois do conteudo */
+   padding: 30px 30px;
+   /* linha que fica apos o padding */
+   border: 10px solid rgb(255, 69, 1);
+   border-left: 15px dotted blue;
+   border-right-style: double;
+   border-radius: 100px;
+   /* adicionando espaço */
+   margin: 10px 50px 100px 20px;
+}
